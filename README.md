@@ -26,3 +26,6 @@ Key features:
 
 [Chrome Web Store](https://chrome.google.com/webstore/detail/eye-read-reading-assistan/nimilnpomamlmmnnmijddgbfhabbokkk) <img src="https://github.com/Eye-Read/EyeRead/assets/131948786/9c32bb18-c335-4422-83f2-a4ba81264abb" width="32" height="32"></img>
 [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/eye-read-reading-assista/bmgncecogedpfadgmfphahoaihipbblj) <img src="https://github.com/Eye-Read/EyeRead/assets/131948786/6de1bf45-37a0-4a53-9728-80a63b6f7cac" width="32" height="32"></img>
+
+## Issues and feature requests
+[Create a ticket](https://github.com/Eye-Read/EyeRead/issues)
