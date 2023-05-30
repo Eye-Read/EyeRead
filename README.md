@@ -24,8 +24,9 @@ Key features:
 
 ## Download
 
-[Chrome Web Store](https://chrome.google.com/webstore/detail/eye-read-reading-assistan/nimilnpomamlmmnnmijddgbfhabbokkk) <img src="https://github.com/Eye-Read/EyeRead/assets/131948786/9c32bb18-c335-4422-83f2-a4ba81264abb" width="32" height="32"></img>
+[Google Chrome](https://chrome.google.com/webstore/detail/eye-read-reading-assistan/nimilnpomamlmmnnmijddgbfhabbokkk) <img src="https://github.com/Eye-Read/EyeRead/assets/131948786/9c32bb18-c335-4422-83f2-a4ba81264abb" width="32" height="32"></img>
 [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/eye-read-reading-assista/bmgncecogedpfadgmfphahoaihipbblj) <img src="https://github.com/Eye-Read/EyeRead/assets/131948786/6de1bf45-37a0-4a53-9728-80a63b6f7cac" width="32" height="32"></img>
+[Firefox](https://addons.mozilla.org/firefox/addon/eye-read-reading-assistant/) <img src="https://github.com/Eye-Read/EyeRead/assets/131948786/706c2b15-950b-4fd3-82a6-24f8ad93e367" width="32" height="32"></img>
 
 ## Issues and feature requests
 [Create a ticket](https://github.com/Eye-Read/EyeRead/issues)
