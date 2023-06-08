@@ -4,9 +4,9 @@
 
 # Eye Read: Reading Assistant
 
-Eye Read is a web extension that unlocks the power of bionic reading on your page with a click of a button.
+Eye Read is a web extension that unlocks the power of focused reading with a click of a button on any web page. Aimed to help neurodivergent people, eg. with ADHD, to be more productive at school and work.
 
-It uses a custom algorithm that bolds a portion of each word to help guide your eyes over the text more quickly. Aimed to assist people with ADHD or anyone who wants to be a more efficient reader.
+It uses a custom algorithm that bolds a portion of each word to help guide your eyes over the text. This augmented reading technique helps your brain autocomplete the words, which translates into improved focus and faster reading. 
 
 Key features:
 
@@ -14,7 +14,7 @@ Key features:
 ⭐️ Lightweight and fast - doesn't slow down your web browsing experience or break pages.<br>
 ⭐️ Customizable - noise level control allows you to adjust how much content to highlight on the page.<br>
 ⭐️ Works where it matters - keep using M365 Office Suite apps, such as Word or PowerPoint, browse social media apps, or read books in Google Play Books. <br>
-⭐️ Does not collect any personal data<br>
+⭐️ Does not collect any personal data.<br>
 
 <img src="https://github.com/Eye-Read/EyeRead/assets/131948786/4a9b8601-da49-4a4c-a237-1daa9c872df1" width="320" height="200"></img>
 <img src="https://github.com/Eye-Read/EyeRead/assets/131948786/0acc8a3b-8b2c-4b7f-b890-d695d4c974d8" width="320" height="200"></img>
